@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jgamblin-epss-mcp-badge.png)](https://mseep.ai/app/jgamblin-epss-mcp)
+
 # EPSS MCP Project
 
 
